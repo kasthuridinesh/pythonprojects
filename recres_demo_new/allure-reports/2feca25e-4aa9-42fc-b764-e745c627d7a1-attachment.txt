@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_users.py:17 Single User API verification started...
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): reqres.in:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://reqres.in:443 "GET /api/users/1 HTTP/1.1" 200 None
+[32mINFO    [0m root:verification_manager.py:14 Verify user id
+[32mINFO    [0m root:verification_manager.py:19 Number validation failed !
+[32mINFO    [0m root:test_users.py:19 Single User API verification completed!

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Demo_Api project/.idea/API_OPERATIONS.iml" filepath="$PROJECT_DIR$/../Demo_Api project/.idea/API_OPERATIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../petstore_image/.idea/petstore_image.iml" filepath="$PROJECT_DIR$/../petstore_image/.idea/petstore_image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytest/.idea/pytest.iml" filepath="$PROJECT_DIR$/../pytest/.idea/pytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytest_project/.idea/pytest_project.iml" filepath="$PROJECT_DIR$/../pytest_project/.idea/pytest_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../swagger_books_api_automations/.idea/swagger_books_api.iml" filepath="$PROJECT_DIR$/../swagger_books_api_automations/.idea/swagger_books_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../swagger_books_api_compressed/.idea/swagger_books_api_compressed.iml" filepath="$PROJECT_DIR$/../swagger_books_api_compressed/.idea/swagger_books_api_compressed.iml" />
+    </modules>
+  </component>
+</project>

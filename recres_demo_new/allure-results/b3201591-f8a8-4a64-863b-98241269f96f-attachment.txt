@@ -1,0 +1,3 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): reqres.in:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://reqres.in:443 "GET /api/users/4 HTTP/1.1" 200 None
+[32mINFO    [0m root:verification_manager.py:21 Number validation is successful

@@ -1,0 +1,27 @@
+{
+  "Zscaler employee data" : [
+    {
+      "Name": "dinesh",
+      "phone": "7365477289",
+      "e-mail": "dinesh.kumar@gmail.com"
+    },
+    {
+     "Name": "Advith",
+      "phone": "9566743567",
+      "e-mail": "Advith@gmail.com"
+
+    },
+    {
+     "Name": "kiran",
+     "phone": "8688435321",
+      "e-mail": "kiran@gmail.com"
+
+    },
+     {
+     "Name": "Bhavadharani",
+     "phone": "9597026887",
+      "e-mail": "lokesh.chandramurthy@atmecs.com"
+
+    }
+  ]
+}

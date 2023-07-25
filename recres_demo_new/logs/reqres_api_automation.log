@@ -1,0 +1,199 @@
+2023-03-06 12:56:40,533 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 12:56:40,737 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 12:56:40,738 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 1 == Expected Result :: 1
+2023-03-06 12:56:40,738 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 12:56:40,739 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: george.bluth@reqres.in == Expected Result :: george.bluth@reqres.in
+2023-03-06 12:56:40,740 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 12:56:40,740 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: George == Expected Result :: George
+2023-03-06 12:56:40,741 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 12:56:40,741 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Bluth == Expected Result :: Bluth
+2023-03-06 12:56:40,743 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 12:56:40,743 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/1-image.jpg == Expected Result :: https://reqres.in/img/faces/1-image.jpg
+2023-03-06 12:56:40,743 - test_users - INFO - test_single_user_api: 19 - Single User API verification completed!
+2023-03-06 13:10:22,872 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:10:23,525 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:10:23,526 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 12 == Expected Result :: 12
+2023-03-06 13:10:23,526 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:10:23,527 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: rachel.howell@reqres.in == Expected Result :: rachel.howell@reqres.in
+2023-03-06 13:10:23,527 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:10:23,528 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Rachel == Expected Result :: Rachel
+2023-03-06 13:10:23,528 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:10:23,529 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Howell == Expected Result :: Howell
+2023-03-06 13:10:23,529 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:10:23,529 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/12-image.jpg == Expected Result :: https://reqres.in/img/faces/12-image.jpg
+2023-03-06 13:12:39,515 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:12:40,085 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:12:40,085 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 5 == Expected Result :: 5
+2023-03-06 13:12:40,086 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:12:40,087 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: charles.morris@reqres.in == Expected Result :: charles.morris@reqres.in
+2023-03-06 13:12:40,087 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:12:40,088 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Charles == Expected Result :: Charles
+2023-03-06 13:12:40,088 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:12:40,089 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Morris == Expected Result :: Morris
+2023-03-06 13:12:40,090 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:12:40,090 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/5-image.jpg == Expected Result :: https://reqres.in/img/faces/5-image.jpg
+2023-03-06 13:20:31,423 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:20:31,681 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:20:31,682 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 8 == Expected Result :: 8
+2023-03-06 13:20:31,682 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:20:31,683 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: lindsay.ferguson@reqres.in == Expected Result :: lindsay.ferguson@reqres.in
+2023-03-06 13:20:31,683 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:20:31,684 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Lindsay == Expected Result :: Lindsay
+2023-03-06 13:20:31,684 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:20:31,684 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Ferguson == Expected Result :: Ferguson
+2023-03-06 13:20:31,685 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:20:31,685 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/8-image.jpg == Expected Result :: https://reqres.in/img/faces/8-image.jpg
+2023-03-06 13:23:36,187 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:23:36,802 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:23:36,802 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 5 == Expected Result :: 5
+2023-03-06 13:23:36,803 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:23:36,803 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: charles.morris@reqres.in == Expected Result :: charles.morris@reqres.in
+2023-03-06 13:23:36,804 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:23:36,804 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Charles == Expected Result :: Charles
+2023-03-06 13:23:36,804 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:23:36,804 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Morris == Expected Result :: Morris
+2023-03-06 13:23:36,805 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:23:36,805 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/5-image.jpg == Expected Result :: https://reqres.in/img/faces/5-image.jpg
+2023-03-06 13:25:22,559 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:25:22,816 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:25:22,817 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 1 == Expected Result :: 1
+2023-03-06 13:25:22,817 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:25:22,818 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: george.bluth@reqres.in == Expected Result :: george.bluth@reqres.in
+2023-03-06 13:25:22,818 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:25:22,819 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: George == Expected Result :: George
+2023-03-06 13:25:22,819 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:25:22,820 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Bluth == Expected Result :: Bluth
+2023-03-06 13:25:22,820 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:25:22,821 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/1-image.jpg == Expected Result :: https://reqres.in/img/faces/1-image.jpg
+2023-03-06 13:27:56,513 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:27:57,133 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:27:57,133 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 12 == Expected Result :: 12
+2023-03-06 13:27:57,134 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:27:57,134 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: rachel.howell@reqres.in == Expected Result :: rachel.howell@reqres.in
+2023-03-06 13:27:57,135 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:27:57,135 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Rachel == Expected Result :: Rachel
+2023-03-06 13:27:57,136 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:27:57,136 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Howell == Expected Result :: Howell
+2023-03-06 13:27:57,137 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:27:57,137 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/12-image.jpg == Expected Result :: https://reqres.in/img/faces/12-image.jpg
+2023-03-06 13:27:57,138 - test_users - INFO - test_single_user_api: 19 - Single User API verification completed!
+2023-03-06 13:30:36,042 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:30:36,227 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:30:36,228 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 12 == Expected Result :: 12
+2023-03-06 13:30:36,228 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:30:36,229 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: rachel.howell@reqres.in == Expected Result :: rachel.howell@reqres.in
+2023-03-06 13:30:36,229 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:30:36,230 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Rachel == Expected Result :: Rachel
+2023-03-06 13:30:36,230 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:30:36,231 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Howell == Expected Result :: Howell
+2023-03-06 13:30:36,231 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:30:36,231 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/12-image.jpg == Expected Result :: https://reqres.in/img/faces/12-image.jpg
+2023-03-06 13:33:31,278 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:33:31,909 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:33:31,909 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 12 == Expected Result :: 12
+2023-03-06 13:33:31,909 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:33:31,909 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: rachel.howell@reqres.in == Expected Result :: rachel.howell@reqres.in
+2023-03-06 13:33:31,911 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:33:31,911 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Rachel == Expected Result :: Rachel
+2023-03-06 13:33:31,912 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:33:31,912 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Howell == Expected Result :: Howell
+2023-03-06 13:33:31,913 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:33:31,913 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/12-image.jpg == Expected Result :: https://reqres.in/img/faces/12-image.jpg
+2023-03-06 13:37:36,213 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:37:36,456 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:37:36,457 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 8 == Expected Result :: 8
+2023-03-06 13:37:36,457 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:37:36,458 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: lindsay.ferguson@reqres.in == Expected Result :: lindsay.ferguson@reqres.in
+2023-03-06 13:37:36,458 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:37:36,459 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Lindsay == Expected Result :: Lindsay
+2023-03-06 13:37:36,459 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:37:36,460 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Ferguson == Expected Result :: Ferguson
+2023-03-06 13:37:36,460 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:37:36,461 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/8-image.jpg == Expected Result :: https://reqres.in/img/faces/8-image.jpg
+2023-03-06 13:39:38,331 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:39:38,553 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:39:38,553 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 5 == Expected Result :: 5
+2023-03-06 13:39:38,554 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:39:38,554 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: charles.morris@reqres.in == Expected Result :: charles.morris@reqres.in
+2023-03-06 13:39:38,554 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:39:38,555 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Charles == Expected Result :: Charles
+2023-03-06 13:39:38,555 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:39:38,556 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Morris == Expected Result :: Morris
+2023-03-06 13:39:38,556 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:39:38,556 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/5-image.jpg == Expected Result :: https://reqres.in/img/faces/5-image.jpg
+2023-03-06 13:40:20,556 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:40:20,740 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:40:20,741 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 2 == Expected Result :: 2
+2023-03-06 13:40:20,741 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:40:20,742 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: janet.weaver@reqres.in == Expected Result :: janet.weaver@reqres.in
+2023-03-06 13:40:20,742 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:40:20,743 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Janet == Expected Result :: Janet
+2023-03-06 13:40:20,743 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:40:20,744 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Weaver == Expected Result :: Weaver
+2023-03-06 13:40:20,744 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:40:20,745 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/2-image.jpg == Expected Result :: https://reqres.in/img/faces/2-image.jpg
+2023-03-06 13:49:05,985 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 13:49:06,663 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 13:49:06,664 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 10 == Expected Result :: 10
+2023-03-06 13:49:06,664 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 13:49:06,665 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: byron.fields@reqres.in == Expected Result :: byron.fields@reqres.in
+2023-03-06 13:49:06,665 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 13:49:06,665 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Byron == Expected Result :: Byron
+2023-03-06 13:49:06,666 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 13:49:06,666 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Fields == Expected Result :: Fields
+2023-03-06 13:49:06,667 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 13:49:06,667 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/10-image.jpg == Expected Result :: https://reqres.in/img/faces/10-image.jpg
+2023-03-06 14:11:10,506 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 14:11:10,776 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 14:11:10,777 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 4 == Expected Result :: 4
+2023-03-06 14:11:10,777 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 14:11:10,777 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: eve.holt@reqres.in == Expected Result :: eve.holt@reqres.in
+2023-03-06 14:11:10,778 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 14:11:10,778 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Eve == Expected Result :: Eve
+2023-03-06 14:11:10,778 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 14:11:10,779 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Holt == Expected Result :: Holt
+2023-03-06 14:11:10,780 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 14:11:10,780 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/4-image.jpg == Expected Result :: https://reqres.in/img/faces/4-image.jpg
+2023-03-06 14:11:25,980 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 14:11:26,163 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 14:11:26,163 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 11 == Expected Result :: 11
+2023-03-06 14:11:26,164 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 14:11:26,164 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: george.edwards@reqres.in == Expected Result :: george.edwards@reqres.in
+2023-03-06 14:11:26,164 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 14:11:26,165 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: George == Expected Result :: George
+2023-03-06 14:11:26,165 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 14:11:26,165 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Edwards == Expected Result :: Edwards
+2023-03-06 14:11:26,165 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 14:11:26,166 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/11-image.jpg == Expected Result :: https://reqres.in/img/faces/11-image.jpg
+2023-03-06 14:11:33,356 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 14:11:33,520 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 14:11:33,522 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 4 == Expected Result :: 4
+2023-03-06 14:11:33,522 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 14:11:33,522 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: eve.holt@reqres.in == Expected Result :: eve.holt@reqres.in
+2023-03-06 14:11:33,523 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 14:11:33,523 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Eve == Expected Result :: Eve
+2023-03-06 14:11:33,524 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 14:11:33,524 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Holt == Expected Result :: Holt
+2023-03-06 14:11:33,525 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 14:11:33,525 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/4-image.jpg == Expected Result :: https://reqres.in/img/faces/4-image.jpg
+2023-03-06 14:15:13,434 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 14:15:14,011 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 14:15:14,012 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 10 == Expected Result :: 10
+2023-03-06 14:15:14,012 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 14:15:14,013 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: byron.fields@reqres.in == Expected Result :: byron.fields@reqres.in
+2023-03-06 14:15:14,013 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 14:15:14,014 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Byron == Expected Result :: Byron
+2023-03-06 14:15:14,014 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 14:15:14,015 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Fields == Expected Result :: Fields
+2023-03-06 14:15:14,015 - verification_manager - INFO - verify_string: 8 - Verify avatar
+2023-03-06 14:15:14,016 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: https://reqres.in/img/faces/10-image.jpg == Expected Result :: https://reqres.in/img/faces/10-image.jpg
+2023-03-06 15:05:02,105 - test_users - INFO - test_single_user_api: 17 - Single User API verification started...
+2023-03-06 15:05:02,362 - verification_manager - INFO - verify_number: 16 - Verify user id
+2023-03-06 15:05:02,362 - verification_manager - INFO - verify_number: 19 - PASS: Actual Result :: 4 == Expected Result :: 4
+2023-03-06 15:05:02,363 - verification_manager - INFO - verify_string: 8 - Verify email id
+2023-03-06 15:05:02,363 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: eve.holt@reqres.in == Expected Result :: eve.holt@reqres.in
+2023-03-06 15:05:02,364 - verification_manager - INFO - verify_string: 8 - Verify first name
+2023-03-06 15:05:02,364 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Eve == Expected Result :: Eve
+2023-03-06 15:05:02,364 - verification_manager - INFO - verify_string: 8 - Verify last name
+2023-03-06 15:05:02,365 - verification_manager - INFO - verify_string: 11 - PASS: Actual Result :: Holt == Expected Result :: Holt
+2023-03-06 15:05:02,365 - test_users - INFO - test_single_user_api: 19 - Single User API verification completed!

@@ -1,0 +1,89 @@
+2023-02-27 18:19:37,417 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:19:38,643 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "GET /api/v1/Books HTTP/1.1" 200 None
+2023-02-27 18:19:40,486 - books_operations - INFO - generate_create_books_json_data: 78 - 
+2023-02-27 18:19:40,507 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:19:41,398 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "POST /api/v1/Books HTTP/1.1" 200 None
+2023-02-27 18:19:41,415 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:19:42,255 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "GET /api/v1/Books/10 HTTP/1.1" 200 None
+2023-02-27 18:19:42,261 - books_operations - INFO - generate_create_books_json_data: 78 - 
+2023-02-27 18:19:42,266 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:19:43,144 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "PUT /api/v1/Books/10 HTTP/1.1" 200 None
+2023-02-27 18:19:43,149 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:19:43,904 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "DELETE /api/v1/Books/10 HTTP/1.1" 200 0
+2023-02-27 18:20:06,890 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:20:07,862 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "GET /api/v1/Books HTTP/1.1" 200 None
+2023-02-27 18:20:09,948 - books_operations - INFO - generate_create_books_json_data: 78 - 
+2023-02-27 18:20:09,964 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:20:10,954 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "POST /api/v1/Books HTTP/1.1" 200 None
+2023-02-27 18:20:10,985 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:20:11,865 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "GET /api/v1/Books/79 HTTP/1.1" 200 None
+2023-02-27 18:20:11,882 - books_operations - INFO - generate_create_books_json_data: 78 - 
+2023-02-27 18:20:11,882 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:20:12,833 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "PUT /api/v1/Books/79 HTTP/1.1" 200 None
+2023-02-27 18:20:12,848 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:20:13,631 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "DELETE /api/v1/Books/79 HTTP/1.1" 200 0
+2023-02-27 18:30:14,202 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:30:15,420 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "GET /api/v1/Books HTTP/1.1" 200 None
+2023-02-27 18:30:57,325 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:30:58,367 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "GET /api/v1/Books HTTP/1.1" 200 None
+2023-02-27 18:31:00,321 - validate_operations - INFO - validate_status_code: 7 - 
+2023-02-27 18:31:00,322 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:31:00,322 - books_operations - INFO - generate_create_books_json_data: 75 - 
+2023-02-27 18:31:00,328 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:31:01,131 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "POST /api/v1/Books HTTP/1.1" 200 None
+2023-02-27 18:31:01,135 - validate_operations - INFO - validate_status_code: 7 - 
+2023-02-27 18:31:01,136 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:31:01,152 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:31:02,053 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "GET /api/v1/Books/104 HTTP/1.1" 200 None
+2023-02-27 18:31:02,057 - validate_operations - INFO - validate_status_code: 7 - 
+2023-02-27 18:31:02,057 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:31:02,060 - books_operations - INFO - generate_create_books_json_data: 75 - 
+2023-02-27 18:31:02,064 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:31:02,845 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "PUT /api/v1/Books/104 HTTP/1.1" 200 None
+2023-02-27 18:31:02,849 - validate_operations - INFO - validate_status_code: 7 - 
+2023-02-27 18:31:02,850 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:31:02,856 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:31:03,692 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "DELETE /api/v1/Books/104 HTTP/1.1" 200 0
+2023-02-27 18:31:03,696 - validate_operations - INFO - validate_status_code: 7 - 
+2023-02-27 18:33:42,492 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:33:43,584 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "GET /api/v1/Books HTTP/1.1" 200 None
+2023-02-27 18:33:45,236 - validate_operations - INFO - validate_status_code: 8 - 
+2023-02-27 18:33:45,237 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:33:45,237 - books_operations - INFO - generate_create_books_json_data: 75 - 
+2023-02-27 18:33:45,240 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:33:45,999 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "POST /api/v1/Books HTTP/1.1" 200 None
+2023-02-27 18:33:46,003 - validate_operations - INFO - validate_status_code: 8 - 
+2023-02-27 18:33:46,003 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:33:46,019 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:33:46,871 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "GET /api/v1/Books/172 HTTP/1.1" 200 None
+2023-02-27 18:33:46,875 - validate_operations - INFO - validate_status_code: 8 - 
+2023-02-27 18:33:46,875 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:33:46,877 - books_operations - INFO - generate_create_books_json_data: 75 - 
+2023-02-27 18:33:46,882 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:33:47,740 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "PUT /api/v1/Books/172 HTTP/1.1" 200 None
+2023-02-27 18:33:47,744 - validate_operations - INFO - validate_status_code: 8 - 
+2023-02-27 18:33:47,744 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:33:47,750 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:33:48,547 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "DELETE /api/v1/Books/172 HTTP/1.1" 200 0
+2023-02-27 18:33:48,551 - validate_operations - INFO - validate_status_code: 8 - 
+2023-02-27 18:34:16,233 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:34:17,283 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "GET /api/v1/Books HTTP/1.1" 200 None
+2023-02-27 18:34:19,177 - validate_operations - INFO - validate_status_code: 8 - 
+2023-02-27 18:34:19,177 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:34:19,178 - books_operations - INFO - generate_create_books_json_data: 75 - 
+2023-02-27 18:34:19,182 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:34:20,096 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "POST /api/v1/Books HTTP/1.1" 200 None
+2023-02-27 18:34:20,101 - validate_operations - INFO - validate_status_code: 8 - 
+2023-02-27 18:34:20,101 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:34:20,114 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:34:21,019 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "GET /api/v1/Books/108 HTTP/1.1" 200 None
+2023-02-27 18:34:21,022 - validate_operations - INFO - validate_status_code: 8 - 
+2023-02-27 18:34:21,023 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:34:21,024 - books_operations - INFO - generate_create_books_json_data: 75 - 
+2023-02-27 18:34:21,028 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:34:21,835 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "PUT /api/v1/Books/108 HTTP/1.1" 200 None
+2023-02-27 18:34:21,839 - validate_operations - INFO - validate_status_code: 8 - 
+2023-02-27 18:34:21,840 - validate_operations - INFO - validate_header: 12 - 
+2023-02-27 18:34:21,847 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): fakerestapi.azurewebsites.net:443
+2023-02-27 18:34:22,759 - connectionpool - DEBUG - _make_request: 456 - https://fakerestapi.azurewebsites.net:443 "DELETE /api/v1/Books/108 HTTP/1.1" 200 0
+2023-02-27 18:34:22,763 - validate_operations - INFO - validate_status_code: 8 - 

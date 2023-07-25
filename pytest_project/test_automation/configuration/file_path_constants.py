@@ -1,0 +1,1 @@
+CONFIG_FILE_PATH = 'C:/Users/kasthuri.kandavelu/PycharmProjects/pytest_project/test_automation/configuration/config.ini'

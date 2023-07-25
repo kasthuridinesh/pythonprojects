@@ -1,0 +1,24 @@
+[[source]]cls
+
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+assertpy = "*"
+jsonpath-ng = "*"
+pytest = "*"
+lxml = "*"
+Faker = "*"
+cerberus = "*"
+reportportal-client = "*"
+pytest-reportportal = "*"
+pytest-xdist = {extras = ["psutil"], version = "*"}
+more-itertools = "*"
+pytest-dependency = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "*"

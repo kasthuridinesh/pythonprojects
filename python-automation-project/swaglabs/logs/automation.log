@@ -1,0 +1,11 @@
+2023-02-13 12:34:43,357 - Test Login - INFO - test_home_page_title:24 - TestLogin
+2023-02-13 12:34:43,359 - Test Login - INFO - test_home_page_title:25 - Starting Home Page Title Test 
+2023-02-13 12:34:43,971 - Test Login - INFO - test_home_page_title:29 - Home Page Title Test Passed
+2023-02-13 12:44:59,503 - Test Login - INFO - test_home_page_title:24 - TestLogin
+2023-02-13 12:44:59,504 - Test Login - INFO - test_home_page_title:25 - Starting Home Page Title Test 
+2023-02-13 12:45:00,087 - Test Login - INFO - test_home_page_title:29 - Home Page Title Test Passed
+2023-02-14 10:22:29,393 - Test Login - INFO - test_home_page_title:23 - TestLogin
+2023-02-14 10:22:29,393 - Test Login - INFO - test_home_page_title:24 - Starting Home Page Title Test 
+2023-02-14 10:24:53,534 - Test Login - INFO - test_home_page_title:27 - TestLogin
+2023-02-14 10:24:53,536 - Test Login - INFO - test_home_page_title:28 - Starting Home Page Title Test 
+2023-02-14 10:24:53,995 - Test Login - INFO - test_home_page_title:32 - Home Page Title Test Passed

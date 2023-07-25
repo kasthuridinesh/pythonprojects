@@ -1,0 +1,27 @@
+{
+  "employee_details":
+
+  [
+    {
+      "employee id1": 2437,
+      "employee_name": "John",
+      "employee_lastname": "Smith",
+      "Dept": "Manual"
+    },
+
+      {
+        "employee id2": 2345,
+        "employee_name": "Sita",
+        "employee_lastname": "Ram",
+        "Dept": "Automatic"
+      },
+
+      {
+        "employee id3": 2356,
+        "employee_name": "Bhavadharani",
+        "employee_lastname": "Matheswaran",
+        "Dept": "Manual"
+      }
+    ]
+  }
+

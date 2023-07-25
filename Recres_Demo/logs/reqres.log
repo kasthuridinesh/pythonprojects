@@ -1,0 +1,19 @@
+2023-03-03 16:34:51,583 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): reqres.in:443
+2023-03-03 16:34:51,838 - connectionpool - DEBUG - _make_request: 456 - https://reqres.in:443 "GET /api/users/7 HTTP/1.1" 200 None
+2023-03-03 16:34:51,854 - verification_manager - INFO - verify_number: 21 - Number validation is successful
+2023-03-03 16:37:57,939 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): reqres.in:443
+2023-03-03 16:37:58,129 - connectionpool - DEBUG - _make_request: 456 - https://reqres.in:443 "GET /api/users/7 HTTP/1.1" 200 None
+2023-03-03 16:37:58,144 - verification_manager - INFO - verify_number: 21 - Number validation is successful
+2023-03-06 10:24:16,588 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): reqres.in:443
+2023-03-06 10:24:17,202 - connectionpool - DEBUG - _make_request: 456 - https://reqres.in:443 "GET /api/users/9 HTTP/1.1" 200 None
+2023-03-06 10:25:36,133 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): reqres.in:443
+2023-03-06 10:25:36,785 - connectionpool - DEBUG - _make_request: 456 - https://reqres.in:443 "GET /api/users/1 HTTP/1.1" 200 None
+2023-03-06 10:25:36,801 - verification_manager - INFO - verify_number: 21 - Number validation is successful
+2023-03-06 10:34:28,879 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): reqres.in:443
+2023-03-06 10:34:29,584 - connectionpool - DEBUG - _make_request: 456 - https://reqres.in:443 "GET /api/users/5 HTTP/1.1" 200 None
+2023-03-06 10:36:04,999 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): reqres.in:443
+2023-03-06 10:36:05,194 - connectionpool - DEBUG - _make_request: 456 - https://reqres.in:443 "GET /api/users/8 HTTP/1.1" 200 None
+2023-03-06 10:36:05,194 - verification_manager - INFO - verify_number: 21 - Number validation is successful
+2023-03-06 14:38:53,126 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): reqres.in:443
+2023-03-06 14:38:53,778 - connectionpool - DEBUG - _make_request: 456 - https://reqres.in:443 "GET /api/users/7 HTTP/1.1" 200 None
+2023-03-06 14:38:53,778 - verification_manager - INFO - verify_number: 21 - Number validation is successful

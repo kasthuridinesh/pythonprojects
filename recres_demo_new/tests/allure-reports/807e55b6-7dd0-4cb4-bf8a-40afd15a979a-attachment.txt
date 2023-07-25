@@ -1,0 +1,2 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:1003 Starting new HTTPS connection (1): reqres.in:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://reqres.in:443 "GET /api/users/12 HTTP/1.1" 200 None

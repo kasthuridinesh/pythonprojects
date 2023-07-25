@@ -1,0 +1,11 @@
+[32mINFO    [0m root:test_users.py:17 Single User API verification started...
+[32mINFO    [0m root:verification_manager.py:16 Verify user id
+[32mINFO    [0m root:verification_manager.py:19 PASS: Actual Result :: 4 == Expected Result :: 4
+[32mINFO    [0m root:verification_manager.py:8 Verify email id
+[32mINFO    [0m root:verification_manager.py:11 PASS: Actual Result :: eve.holt@reqres.in == Expected Result :: eve.holt@reqres.in
+[32mINFO    [0m root:verification_manager.py:8 Verify first name
+[32mINFO    [0m root:verification_manager.py:11 PASS: Actual Result :: Eve == Expected Result :: Eve
+[32mINFO    [0m root:verification_manager.py:8 Verify last name
+[32mINFO    [0m root:verification_manager.py:11 PASS: Actual Result :: Holt == Expected Result :: Holt
+[32mINFO    [0m root:verification_manager.py:8 Verify avatar
+[32mINFO    [0m root:verification_manager.py:11 PASS: Actual Result :: https://reqres.in/img/faces/4-image.jpg == Expected Result :: https://reqres.in/img/faces/4-image.jpg

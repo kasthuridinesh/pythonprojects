@@ -1,0 +1,11 @@
+# creating API methods by giving end point
+
+post:
+  endpoint: 'https://reqres.in/api/users/1'
+get:
+  endpoint: 'https://jsonplaceholder.typicode.com/todos/1'
+put:
+  endpoint: 'https://jsonplaceholder.typicode.com/todos/1'
+delete:
+  endpoint: 'https://jsonplaceholder.typicode.com/todos/10'
+

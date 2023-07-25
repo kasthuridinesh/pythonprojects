@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Amazon_automation_framework/.idea/Amazon_automation_framework.iml" filepath="$PROJECT_DIR$/../Amazon_automation_framework/.idea/Amazon_automation_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Api_testing/.idea/Api_testing.iml" filepath="$PROJECT_DIR$/../Api_testing/.idea/Api_testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DemoPython/.idea/DemoPython.iml" filepath="$PROJECT_DIR$/../DemoPython/.idea/DemoPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium-Python-Example-main/.idea/Selenium-Python-Example-main.iml" filepath="$PROJECT_DIR$/../Selenium-Python-Example-main/.idea/Selenium-Python-Example-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Swagger_ui_api_automation.iml" filepath="$PROJECT_DIR$/.idea/Swagger_ui_api_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../api_sample/.idea/api_sample.iml" filepath="$PROJECT_DIR$/../api_sample/.idea/api_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytest/.idea/pytest.iml" filepath="$PROJECT_DIR$/../pytest/.idea/pytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytest_project/.idea/pytest_project.iml" filepath="$PROJECT_DIR$/../pytest_project/.idea/pytest_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python-automation-project/.idea/python-automation-project.iml" filepath="$PROJECT_DIR$/../python-automation-project/.idea/python-automation-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>

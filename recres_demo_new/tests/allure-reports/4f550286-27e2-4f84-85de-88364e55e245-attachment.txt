@@ -1,0 +1,2 @@
+2023-03-06 10:24:52,491 - connectionpool - DEBUG - _new_conn: 1003 - Starting new HTTPS connection (1): reqres.in:443
+2023-03-06 10:24:53,206 - connectionpool - DEBUG - _make_request: 456 - https://reqres.in:443 "GET /api/users/12 HTTP/1.1" 200 None
